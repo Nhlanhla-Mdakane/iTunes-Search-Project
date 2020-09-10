@@ -1,4 +1,4 @@
-**How to use**
+**How to use.**
 To use, user must enter details and select from a dropdown list to search  for specific content in the iTunes store .
 e.g. drake  music
 
