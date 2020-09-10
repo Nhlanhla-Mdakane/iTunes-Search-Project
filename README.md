@@ -1,9 +1,9 @@
-##How to use
+**How to use**
 to use, user must enter details and select from a dropdown list to search  for specific content in the iTunes store .
 e.g. drake  music
 
 
-To run this code on your computer
+**To run this code on your computer**
 1. cd backend
 2. npm install
 3. npm start
@@ -11,6 +11,6 @@ To run this code on your computer
 5. npm install
 6. npm start
 
-Security
+**Security**
 I have used HELMET set various HTTP headers to help secure the express app, the API did not need an API key .
 
